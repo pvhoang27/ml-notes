@@ -1,0 +1,7 @@
+Test trích xuất thông tin đơn giản: * TechFuture duoc thanh lap nam nao?
+
+Test khả năng tổng hợp và liệt kê: * Cong ty co nhung san pham nao? Giai thich chi tiet.
+
+Test khả năng hiểu ngữ cảnh: * Toi muon den tru so cong ty thi phai den dau?
+
+Test khả năng chống "bịa" thông tin (Hallucination): * Cong ty co bao nhieu nhan vien? hoặc Doanh thu nam ngoai la bao nhieu?
