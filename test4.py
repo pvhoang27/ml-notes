@@ -18,3 +18,8 @@ y_pred = X_test @ w
 
 print("Dự đoán cân nặng cho chiều cao 155cm:", y_pred[0])
 print("Dự đoán cân nặng cho chiều cao 160cm:", y_pred[1])
+
+print("-------------------------------")
+
+print("Sai số cho 155cm:", abs(y_pred[0] - 52))
+print("Sai số cho 160cm:", abs(y_pred[1] - 56))
